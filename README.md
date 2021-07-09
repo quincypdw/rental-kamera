@@ -1,4 +1,5 @@
 # rental-kamera
  Aplikasi untuk penyewaan kamera. Tersedia CRUD, Transaksi dan Laporan.
-
-Untuk penggunaan silahkan mengubah database pada application/config/database.php
+	Framework yang digunakan: Codeigniter 3
+	Untuk penggunaan silahkan mengubah database pada application/config/database.php
+	Tersedia halaman admin dan frontend customer
